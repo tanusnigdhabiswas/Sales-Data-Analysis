@@ -1,3 +1,3 @@
-# demo_project
-This is my first Git Repository.
-Author -Tandra
+# My_First_Project
+This is my first project.
+Author -Tanusnigdha
